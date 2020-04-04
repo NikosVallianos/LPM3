@@ -1,6 +1,6 @@
 # LPM3
 The LPM3 is a device to measure light pollution on sea turtle nesting beaches.
-
+This repository consists of the
 
 ## License
 The LPM3 depository integrates hardware design, firmware source code, desktop software, and supporting documentation. These are licensed as follows:
