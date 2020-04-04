@@ -1,4 +1,5 @@
-# LPM3 front-end
+# LPM3 front-end #
+
 The LPM3 is a device to measure light pollution on sea turtle nesting beaches. 
 ---
 **NOTE**
