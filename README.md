@@ -1,9 +1,13 @@
 # LPM3 front-end #
 
-The LPM3 is a device to measure light pollution on sea turtle nesting beaches. 
+The LPM3 is a device to measure light pollution on sea turtle nesting beaches.
+
 ---
+
 **NOTE**
+
 This repository focuses solely on the development of the front-end of the device, which can be used separately by any programmable device with an I²C and a SPI interface, such as an arduino, raspberry pi, or a suitable USB adapter.
+
 ---
 
 ## License
